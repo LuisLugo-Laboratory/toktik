@@ -3,7 +3,7 @@
 ## A new Flutter project.
 
 ### In this app we will going to watch videos, using an app similar to tiktok...
-<b> Notes: </b> <i>In this moment this project is using local videos</i>
+<b> Notes: </b> <i>In this moment this project is using local videos.</i>
 
 
 
