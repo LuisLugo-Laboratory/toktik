@@ -5,6 +5,9 @@
 ### In this app we will going to watch videos, using an app similar to tiktok...
 <b> Notes: </b> <i>In this moment this project is using local videos</i>
 
+
+<img src="./Screenshot_20260910_141212.jpg" style="height: 55%; width:35%;"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
