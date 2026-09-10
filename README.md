@@ -6,21 +6,15 @@
 <b> Notes: </b> <i>In this moment this project is using local videos</i>
 
 
-<img src="./Screenshot_20260910_141212.jpg" style="height: 55%; width:35%;"/>
+
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 8px;">Row 1, Column 1</td>
+    <td style="padding: 8px;"> <img src="./Screenshot_20260910_141212.jpg" style="height: 55%; width:35%;"/> </td>
+    <td style="padding: 8px;">Row 1, Column 2</td>
     <td style="padding: 8px;">Row 1, Column 2</td>
   </tr>
-  <tr>
-    <td style="padding: 8px;">Row 2, Column 1</td>
-    <td style="padding: 8px;">Row 2, Column 2</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px;">Row 3, Column 1</td>
-    <td style="padding: 8px;">Row 3, Column 2</td>
-  </tr>
+  
 </table>
 
 ## Getting Started
