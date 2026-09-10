@@ -1,6 +1,9 @@
 # toktik
 
-A new Flutter project.
+## A new Flutter project.
+
+### In this app we will going to watch videos, using an app similar to tiktok...
+### <b> Notes: </b> <k>In this moment this project is using local videos</k>
 
 ## Getting Started
 
