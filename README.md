@@ -10,7 +10,7 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 8px;"> <img src="./toktik_ref_1.jpg" /> </td>
+    <td style="padding: 8px;"> <img src="./toktik_ref_1.jpg" style="height: 20%; width:25%;" /> </td>
     <td style="padding: 8px;">Row 1, Column 2</td>
     <td style="padding: 8px;">Row 1, Column 2</td>
   </tr>
